@@ -13,7 +13,7 @@ not unique ownership, but the **right to execute**.
 
 ### Read the whitepaper
 
-**[WHITEPAPER.pdf](./WHITEPAPER.pdf)**
+**[WHITEPAPER.pdf](https://quantumdisc.github.io/LicenseToken-2026/WHITEPAPER.pdf)**
 
 ### The idea in one minute
 
