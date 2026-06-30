@@ -15,6 +15,8 @@ not unique ownership, but the **right to execute**.
 
 **[WHITEPAPER.pdf](https://quantumdisc.github.io/LicenseToken-2026/WHITEPAPER.pdf)**
 
+**[VALIDATION.pdf](https://quantumdisc.github.io/LicenseToken-2026/VALIDATION.pdf)** — reference implementation and validation: the protocol built, tested at three levels, and run on a live validator.
+
 ### The idea in one minute
 
 A blockchain has produced three native asset types: spendable value, fungible
